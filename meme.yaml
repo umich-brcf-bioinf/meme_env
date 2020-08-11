@@ -1,0 +1,8 @@
+name: meme
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - meme=5.0.2
+  - icu=58.2
+
